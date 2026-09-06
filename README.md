@@ -111,8 +111,6 @@ The dataset contains information on:
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here)
-
 ---
 
 ## 🚀 Skills Demonstrated
@@ -130,8 +128,10 @@ The dataset contains information on:
 
 ## 👩‍💻 Author
 
-**Your Name**
+** KARALDAIAH MOUNIKA **
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/karaldaiah-mounika-1427832a2
 
-GitHub: https://github.com/yourusername
+
+
+GitHub: https://github.com/karaldaiahmounika-ctrl
